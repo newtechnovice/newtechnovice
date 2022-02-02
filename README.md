@@ -1,5 +1,10 @@
 <h1 align = "center"> hi, i'm daniella💛 </h1>
 
+<p align = "center">
+  <img src="9LaN.gif" alt="animated girl working" width="500" height="330" >
+</p>
+
+
 <h2> about me </h2>
 <ul>
   <li>i'm a CS student who is currently struggling with thesis✌️ </li>
