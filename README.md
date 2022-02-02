@@ -1,7 +1,7 @@
 <h1 align = "center"> hi, i'm daniella💛 </h1>
 
 <p align = "center">
-  <img src="9LaN.gif" alt="animated girl working" width="500" height="330" >
+  <img src="9LaN.gif" alt="animated girl working" width="400" height="400" >
 </p>
 
 
