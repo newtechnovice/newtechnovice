@@ -27,7 +27,11 @@
   
 <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" alt="Figma" height="40" style="vertical-align:top; margin:4px">
   
- <img src="https://avatars.githubusercontent.com/u/41522403?s=200&v=4" alt="Adobe XD" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/41522403?s=200&v=4" alt="Adobe XD" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="Google Colaboratory" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <!--
