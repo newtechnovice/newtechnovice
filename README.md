@@ -9,8 +9,8 @@
 <ul>
   <li>i'm a CS student who is currently struggling with thesis ✌️</li>
   <li>i'm currently learning web development from <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>!</li>
-  <li>i was a software qa engineer intern at a fintech company ☕</li>
-  <li>i have a bookstagram, currently i'm reading "Cultish: The Language of Fanaticism" by Amanda Montell 📚</li>
+  <li>a software qa engineer at a fintech company ☕</li>
+  <li>currently i'm reading "Personal Finance in Your 20s & 30s For Dummies" by Eric Tyson📚</li>
 </ul>
 
 <h2> languages and tools </h2>
