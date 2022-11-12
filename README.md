@@ -7,10 +7,10 @@
 
 <h2> about me </h2>
 <ul>
-  <li>i'm a CS student who is currently struggling with thesis ✌️</li>
-  <li>i'm currently learning web development from <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>!</li>
-  <li>a software qa engineer at a fintech company ☕</li>
-  <li>currently i'm reading "Personal Finance in Your 20s & 30s For Dummies" by Eric Tyson📚</li>
+  <li>I'm a Jr. Software QA Engineer 👩‍💻 </li>
+  <li>I'm currently learning the fundamentals of software testing from <a href="https://www.youtube.com/playlist?list=PLL34mf651faM_nn8uKlnwbQPw5zSh_F84" target="_blank">Software Testing Mentor</a></li>
+  <li>Also learning "Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more" on Udemy ☕</li>
+  <li>Currently I'm reading "Atomic Habits" by James Clear📚</li>
 </ul>
 
 <h2> languages and tools </h2>
@@ -36,7 +36,15 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://avatars.githubusercontent.com/u/574284?s=200&v=4" alt="Robot Framework" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Swagger-API" height="40" style="vertical-align:top; margin:4px">
+  
+<img src="https://avatars.githubusercontent.com/u/1086321?s=200&v=4" alt="GitLab" height="40" style="vertical-align:top; margin:4px">
+  
+<img src="https://avatars.githubusercontent.com/u/31894430?s=200&v=4" alt="Kiwi TCMS" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+
 
 <!--
 **newtechnovice/newtechnovice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
