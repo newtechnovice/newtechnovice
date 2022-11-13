@@ -8,7 +8,7 @@
 <h2> about me </h2>
 <ul>
   <li>I'm a Jr. Software QA Engineer 👩‍💻 </li>
-  <li>I'm currently learning the fundamentals of software testing from <a href="https://www.youtube.com/playlist?list=PLL34mf651faM_nn8uKlnwbQPw5zSh_F84" target="_blank">Software Testing Mentor</a></li>
+  <li>I'm currently learning the fundamentals of software testing</li>
   <li>Also learning "Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more" on Udemy ☕</li>
   <li>Currently I'm reading "Atomic Habits" by James Clear📚</li>
 </ul>
@@ -59,4 +59,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+from <a href="https://www.youtube.com/playlist?list=PLL34mf651faM_nn8uKlnwbQPw5zSh_F84" target="_blank">Software Testing Mentor</a>
 -->
