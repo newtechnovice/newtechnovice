@@ -9,8 +9,8 @@
 <ul>
   <li>I'm a Jr. Software QA Engineer 👩‍💻 </li>
   <li>I'm currently learning the fundamentals of software testing</li>
-  <li>Also learning "Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more" on Udemy ☕</li>
-  <li>Currently I'm reading "Atomic Habits" by James Clear📚</li>
+  <li>Also learning "The Complete 2023 Web Development Bootcamp" on Udemy ☕</li>
+  <li>Currently I'm reading "The Intelligent Investor" by Benjamin Graham📚</li>
 </ul>
 
 <h2> languages and tools </h2>
